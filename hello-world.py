@@ -1,1 +1,2 @@
-print("Hola mundo")
+name = input("Escribe tu nombre: ")
+print(f"Hola {name}")
